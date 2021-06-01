@@ -87,7 +87,7 @@ class trityp
         else if (triOut == 3 && Side2+Side3 > Side1)
             triOut = 2;
         else
-            triOut = 4;
+            triOut = 1;
         return (triOut);
     } // end Triang
 
