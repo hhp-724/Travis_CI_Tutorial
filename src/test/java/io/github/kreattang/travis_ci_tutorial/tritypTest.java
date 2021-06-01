@@ -14,12 +14,8 @@ public class tritypTest {
 
     @Test
     public void testTriang_4(){
-        assertEquals(1,tri.Triang(3,6,5));
-        assertEquals(2,tri.Triang(5,5,7));
-        assertEquals(3,tri.Triang(5,5,5));
-        assertEquals(4,tri.Triang(1,2,7));
-        assertEquals(4,tri.Triang(2,2,4));
-        assertEquals(4,tri.Triang(2,2,5));
+        assertEquals(3,tri.Triang(3,6,5));
+        
 
     }
 }
