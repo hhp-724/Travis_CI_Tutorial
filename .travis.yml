@@ -17,5 +17,4 @@ on:
 tags: true
 branch: tag
 repo: <hhp-724>/<Travis_Cl_Tutorial>
-notifications:
 
