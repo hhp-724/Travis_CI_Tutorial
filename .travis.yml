@@ -16,7 +16,6 @@ file:
 on:
 tags: true
 branch: tag
-repo: <hhp-724>/<Trcvis_Cl_Tutorial>
+repo: <hhp-724>/<Travis_Cl_Tutorial>
 notifications:
-email:
-- one@example.com(10195101465@stu.ecnu.edu.cn)
+
