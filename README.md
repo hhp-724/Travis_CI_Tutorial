@@ -38,7 +38,7 @@ jdk:
 
 ![avatar](https://github.com/kreattang/TravisCI_Java/blob/main/img/20210529154131.png)
 
-* Create the README.md badge(copy the markdown code from [Travis CI](https://travis-ci.com/) and paste in the top line of _readme.md_)
+* Create the badge in README.md(copy the markdown code from [Travis CI](https://travis-ci.com/) and paste in the top line of _readme.md_)
 > [Travis CI](https://travis-ci.com/) => select your repository => click the build status image => select _FORMAT_ as Markdown => Copy the code of _RESULT_ => paste in the top line of _readme.md_
 
 ![acatar](https://github.com/kreattang/TravisCI_Java/blob/main/img/20210529154809.png)
@@ -61,7 +61,7 @@ after_success:
 ```
 * Commit and push the changes to your repo, which will trigger a new build in Travis CI. This is to enable CodeCov's coverage.
 If a build is successful, the code is submitted for coverage analysis
-* Create the README.md badge of coverage
+* Create the badge in README.md
 > [Codecov](https://codecov.io/gh)  =>select your repository => Setting => Bedge => Copy the contect of Markdown => paste in the second line of readme.md
 
 * You will see the badge like this
